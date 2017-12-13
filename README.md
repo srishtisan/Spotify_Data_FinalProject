@@ -1,2 +1,2 @@
-# billboard_hits_final_project
+# Data Bootcamp Final Project
 My final project for NYU Stern's Data Bootcamp class. 
