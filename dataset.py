@@ -30,8 +30,8 @@ def df_info(df):
 
 
 
-SPOTIPY_CLIENT_ID='fed119b8942c4c6c8ea06b12ea20f582'
-SPOTIPY_CLIENT_SECRET='ed2528d5bc574621bbe33a9977dfe23f'
+SPOTIPY_CLIENT_ID= # Located in a private txt
+SPOTIPY_CLIENT_SECRET= #Located in a private txt
 SPOTIPY_REDIRECT_URI= 'http://localhost:8888/callback'
 
 scope = 'user-library-read'
