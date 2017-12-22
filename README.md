@@ -10,3 +10,7 @@ And I understand that:
 Submitting the same or substantially similar work in multiple courses, either in the same semester or in a different semester, without the express approval of all instructors is strictly forbidden.
 
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for the project and course.
+
+
+# Summary
+The aim of this project was to see if there were any long term trends in the music that charts at number one on the Billboard Hot 100 based on their Spotify audio features. To do this, a dataset was created of every #1 song on the Billboard Hot 100, the dates at which each song charted at #1, and their relevant Spotify audio feautres. Various types of graphical analysis were conducted to further understand these trends.  
