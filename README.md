@@ -1,4 +1,4 @@
-# Data Bootcamp Final Project
+# Using the Spotify API to Identify Trends in Top Hits
 My final project for NYU Stern's Data Bootcamp class. 
 
 This project was completed by Srishti Sanya in partial fulfilment of ECON-UB.0232, Data Bootcamp, Fall 2017. I certify that the NYU Stern Honor Code applies to this project. In particular, I have:
